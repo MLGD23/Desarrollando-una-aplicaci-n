@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjercicioSem2</string>
+    <string name="txtNom">Nombre Completo</string>
+    <string name="txtdate">Fecha de Nacimiento</string>
+    <string name="tvfecha">Fecha de Nacimiento</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="txtconfdat">Confirmar Datos</string>
+</resources>
